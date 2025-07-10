@@ -1,0 +1,812 @@
+# RECORD ANY AND ALL CHANGES IN THE ./CHANGELOG.MD
+
+```
+filename: context7-mcp.py
+	repo: https://github.com/upstash/context7
+	description: advanced context management and semantic search with vector embeddings
+	instrumentation: fastmcp
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: crawl4ai-mcp.py
+	repo: https://github.com/coleam00/mcp-crawl4ai-rag
+	description: web crawling and rag capabilities for ai agents and ai coding assistants
+	instrumentation: fastmcp
+	purpose: knowledge
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: docker-mcp.py
+	repo: https://github.com/QuantGeekDev/docker-mcp
+	description: an mcp server for managing docker with natural language
+	instrumentation: uv-python
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: fastapi-mcp.py
+	repo: https://pypi.org/project/fastmcp/1.0/
+	description: an mcp for the best web framework
+	instrumentation: fastmcp
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: fastmcp-mcp.py
+	repo: https://github.com/jlowin/fastmcp
+	description: fast development for mcp
+	instrumentation: fastmcp
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: github-mcp.py
+	repo: https://github.com/docker/mcp-servers/tree/main/src/github
+	description: github api integration for repository management, issues, and pull requests
+	instrumentation: typescript-npm
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: logfire-mcp.py
+	repo: https://github.com/pydantic/logfire-mcp
+	description: integrated observability and logging with structured monitoring
+	instrumentation: mcp-python
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: memory-mcp.py
+	repo: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+	description: persistent memory management with
+	instrumentation: mcp-typescript
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: pydantic-ai-mcp.py
+	repo: https://ai.pydantic.dev/mcp/
+	description: an mcp for best testing framework
+	instrumentation: fastmcp-mcp
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: pytest-mcp.py
+	repo: https://mcp.so/server/pytest-mcp-server/tosin2013?tab=content
+	description: an mcp for best testing framework
+	instrumentation: mcp-typescript
+	purpose: core
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: registry-mcp.py
+	repo: https://github.com/modelcontextprotocol/registry
+	description: official mcp server registry with discovery and installation tools
+	instrumentation: custom-stdio
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: sequential-thinking-mcp.py
+	repo: https://github.com/loamstudios/zed-mcp-server-sequential-thinking
+	description: sequential reasoning capabilities for complex problem-solving workflows
+	instrumentation: mcp-python
+	purpose: infrastructure
+	last_checked: 2025-06-18 04:50
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+
+filename: surrealdb-mcp.py
+	repo: https://github.com/nsxdavid/surrealdb-mcp-server
+	description: surrealdb-mcp
+description: surrealdb multi-model database integration with graph capabilities
+	instrumentation: mcp-typescript
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: yes
+	test_created: no
+	tested: no
+	passed: no
+	
+```
+---
+
+```
+filename: agentql-mcp.py
+	repo: https://github.com/tinyfish-io/agentql-mcp
+	description: web scraping and browser automation using natural language queries
+	instrumentation: typescript-npm
+	purpose: data
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: apple-mcp.py
+	repo: https://github.com/supermemoryai/apple-mcp
+	description: a macos app that provides an mcp server to your messages, contacts, calendar events
+	instrumentation: typescript-npm-jxa
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: aws-core-mcp.py
+	repo: https://awslabs.github.io/mcp/servers/core-mcp-server/
+	description:
+	instrumentation: fastmcp
+	purpose: infrastructure
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: bayes-mcp.py
+	repo: https://github.com/devq-ai/bayes
+	description: bayesian inference and statistical analysis with mcmc sampling capabilities
+	instrumentation: fastmcp
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: bigquery-mcp.py
+	repo: https://github.com/LucasHild/mcp-server-bigquery
+	description: google bigquery integration for large-scale data analytics
+	instrumentation: fastmcp
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: brightdata-mcp.py
+	repo: https://github.com/brightdata/brightdata-mcp
+	description: enabling agents and apps to access, discover and extract web data in real-time
+	instrumentation: typescript-npm
+	purpose: data
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: browser-tools-mcp.py
+	repo: https://github.com/AgentDeskAI/browser-tools-mcp
+	description: complete browser automation toolkit with screenshot and interaction capabilities
+	instrumentation: typescript-npm-chrome
+	purpose: knowledge
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: buildkite-mcp.py
+	repo: https://github.com/buildkite/buildkite-mcp-server
+	description: buildkite ci/cd integration for pipeline management and build monitoring
+	instrumentation: go-binary
+	purpose: infrastructure
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: calendar-mcp.py
+	repo: https://github.com/nspady/google-calendar-mcp
+	description: google calendar integration for event management and scheduling
+	instrumentation: typescript-npm
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: cerebra-mcp.py
+	repo: https://github.com/yoda-digital/mcp-cerebra-legal-server
+	description:
+	instrumentation: fastmcp
+	purpose: legal
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: code-check-mcp.py
+	repo: https://github.com/MarcusJellinghaus/mcp-code-checker
+	description:
+	instrumentation: fastmcp
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+
+
+
+
+filename: darwin-mcp.py
+	repo: https://github.com/devq-ai/darwin
+	description: darwin is a comprehensive genetic algorithm optimization platform and mcp-server
+	instrumentation: fastmcp
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: databricks-mcp.py
+	repo: https://github.com/JustTryAI/databricks-mcp-server 
+	description: databricks platform integration for big data processing
+	instrumentation: mcp-python
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: dbt-mcp.py
+	repo: https://github.com/dbt-labs/dbt-mcpdatabricks-mcp-server 
+	description:
+	instrumentation: uvx-package
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+
+
+filename: financial-mcp
+	repo: https://github.com/financial-datasets/mcp-server
+	description: financial data analysis and market research tools
+	instrumentation:
+	purpose: financial
+	last_checked: 2025-06-18 04:50
+	dev_needed: true
+  required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: gcp-mcp.py
+	repo: https://github.com/eniayomi/gcp-mcp
+	description: google cloud platform integration and resource management
+	instrumentation: fastmcp
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+
+filename: gmail-mcp.py
+	repo: https://github.com/GongRzhe/Gmail-MCP-Server
+	description: gmail integration for email automation and management
+	instrumentation: needs-analysis
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: google-maps-mcp.py
+	repo: https://github.com/cablate/mcp-google-map
+	description: better than apple maps
+	instrumentation: typescript-npm
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: inspector-mcp.py
+	repo: https://github.com/docker/mcp-inspector
+	description: visual testing tool
+	instrumentation: typescript-npm
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: instagram-mcp.py
+	repo: https://mcp.so/server/instagram-server-next-mcp
+	description: mcp for your gram
+	instrumentation: typescript-npm
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: jupyter-mcp.py
+	repo: https://github.com/datalayer/jupyter-mcp-server
+	description: jupyter notebook execution and data science workflow management
+	instrumentation: fastmcp
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: kalshi-mcp
+	repo: https://github.com/9crusher/mcp-server-kalshi
+	description: a mcp server to interact with kalshi prediction markets
+	instrumentation: mcp python
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00	
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: kubernetes-mcp.py
+	repo: https://github.com/Flux159/mcp-server-kubernetes
+	description: mcp for kubernetes management commands
+	instrumentation: mcp-typescript
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: ledger-mcp.py
+	repo: https://github.com/minhyeoky/mcp-server-ledger
+	description: double-entry accounting systemin a cli
+	instrumentation: mcp-python
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+
+
+filename: magic-mcp.py
+	repo: https://github.com/21st-dev/magic-mcp
+	description: ai-powered code generation and transformation utilities
+	instrumentation: mcp-typescript
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: mp
+	test_created: no
+	tested: no
+	passed: no
+
+filename: markdownify-mcp
+	repo: https://github.com/zcaceres/markdownify-mcp
+	description: html to markdown conversion with formatting preservation
+	instrumentation: mcp-python
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+
+
+filename: neo4j-mcp-cypher.py
+	repo: https://github.com/neo4j-contrib/mcp-neo4j/tree/main/servers/mcp-neo4j-cypher
+	description:
+	instrumentation: mcp-python
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: neo4j-mcp-data-modeling.py
+	repo: https://github.com/neo4j-contrib/mcp-neo4j/tree/main/servers/mcp-neo4j-data-modeling
+	description:
+	instrumentation: mcp-python
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: neo4j-mcp-memory.py
+	repo: https://github.com/neo4j-contrib/mcp-neo4j/tree/main/servers/mcp-neo4j-memory
+	description:
+	instrumentation: mcp-python
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: paypal-mcp.py
+	repo: https://mcp.paypal.com/sse
+	description: paypal payment processing and transaction management
+	instrumentation: remote-service 
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: plaid-mcp.py
+	repo: https://api.dashboard.plaid.com/mcp/sse
+	description:
+	instrumentation: remote-service 
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: postgres-mcp.py
+	repo: https://github.com/crystaldba/postgres-mcp
+	description:
+	instrumentation: mcp-python
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: ptolemies-mcp.py
+	repo: https://github.com/devq-ai/ptolemies
+	description: a temporal knowledge graph for agentic systems
+	instrumentation: fastmcp
+	purpose: knowledge
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: mp
+	test_created: no
+	tested: no
+	passed: no
+
+filename: pulumi-mcp.py
+	repo: https://github.com/pulumi/mcp-server
+	description: build deploy packages, updates, and stack via pulumi
+	instrumentation: mcp-typescript
+	purpose: infrastructure
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: mp
+	test_created: no
+	tested: no
+	passed: no
+
+filename: puppeteer-mcp.py
+	repo: https://www.npmjs.com/package/@modelcontextprotocol/server-puppeteer
+	description: headless browser automation with puppeteer
+	instrumentation: mcp-typescript
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: scholarly-mcp.py
+	repo: https://github.com/adityak74/mcp-scholarly
+	description: academic research and scholarly article access
+	instrumentation: mcp-python
+	purpose: data
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: shadcn-ui-mcp.py
+	repo: https://github.com/Jpisnice/shadcn-ui-mcp-server
+	description: shadcn/ui component library integration for react development
+	instrumentation: mcp-typescript
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: shopify-mcp.py
+	repo: https://github.com/GeLi2001/shopify-mcp
+	description: shopify.dev mcp server
+	instrumentation: mcp-typescript
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: sign-mcp.py
+	repo: https://github.com/esignaturescom/mcp-server-esignatures
+	description: electronic signature workflow management
+dev_needed: true
+	instrumentation: mcp-python
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: slack-mcp.py
+	repo: https://github.com/modelcontextprotocol/servers/tree/main/src/slack
+	description: basic slack integration for messaging
+	instrumentation: mcp-typescript
+	purpose: productivity
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: snowflake-mcp.py
+	repo: https://github.com/isaacwasserman/mcp-snowflake-server
+	description: snowflake data warehouse integration
+	instrumentation: mcp-python
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: solver-mcp-mzn.py
+	repo: https://github.com/szeider/mcp-solver
+	description: minizinc constraint satisfaction and optimization solver
+	instrumentation: mcp-python
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: solver-mcp-pysat.py
+	repo: https://github.com/szeider/mcp-solver
+	description: pysat boolean satisfiability problem solver with advanced algorithms
+	instrumentation: mcp-python
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: solver-mcp-z3.py
+	repo: https://github.com/szeider/mcp-solver
+	description: z3 theorem prover for formal verification and constraint solving
+	instrumentation: mcp-python
+	purpose: anaysis
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: sqlite-mcp
+	repo: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
+	description: sqlite database operations and queries
+	instrumentation: fastmcp
+	purpose: database
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+	
+	filename: stripe-mcp.py
+	repo: https://github.com/stripe/agent-toolkit
+	description: stripe payment processing integration with transaction management
+	instrumentation: mcp-typescript
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: taskmaster-mcp
+	repo: https://github.com/eyaltoledano/claude-task-master
+	description: mcp lets you run task master directly from your editor
+	instrumentation: mcp-typescript 
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: time-mcp.py
+	repo: https://github.com/modelcontextprotocol/servers/tree/main/src/time
+	description:
+	instrumentation: mcp-python
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: upstash-mcp.py
+	repo: https://github.com/upstash/mcp-server
+	description: use any MCP Client to interact with your Upstash account
+	instrumentation: mcp-typescript
+	purpose: development
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: venmo-mcp.py
+	repo: tbd
+	description:
+	instrumentation: 
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: wikidata-mcp.py
+	repo: https://github.com/zzaebok/mcp-wikidata
+	description: wikidata api for knowledge base integration and queries
+	instrumentation: mcp-python
+	purpose: data
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: xero-mcp.py
+	repo: https://github.com/john-zhang-dev/xero-mcp
+	description: xero accounting software integration
+	instrumentation: mcp-typescript 
+	purpose: financial
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+
+filename: zkp-mcp
+	repo: https://github.com/colygon/zkpmcp
+	description:
+	instrumentation: mcp-typescript 
+	purpose: 
+	last_checked: 2025-07-07 09:30:00
+	dev_needed: yes
+	required: no
+	test_created: no
+	tested: no
+	passed: no
+```

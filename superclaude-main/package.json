@@ -1,0 +1,46 @@
+{
+  "name": "superclaude",
+  "version": "1.0.3",
+  "description": "🔮 Supercharge your GitHub workflow with Claude AI. Transform 'fix stuff' commits into professional messages, generate intelligent changelogs, create comprehensive docs, and get AI code reviews that actually understand your codebase. One command replaces hours of manual work.",
+  "main": "index.js",
+  "bin": {
+    "superclaude": "./bin/superclaude"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "claude",
+    "anthropic",
+    "git",
+    "github",
+    "commit-messages",
+    "conventional-commits",
+    "changelog",
+    "documentation",
+    "code-review",
+    "cli",
+    "automation",
+    "developer-tools",
+    "workflow",
+    "productivity",
+    "ai-powered",
+    "readme-generator",
+    "git-hooks"
+  ],
+  "author": "gwendall",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwendall/superclaude.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwendall/superclaude/issues"
+  },
+  "homepage": "https://superclaude.sh",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "preferGlobal": true
+}

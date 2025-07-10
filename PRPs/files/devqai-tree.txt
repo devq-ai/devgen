@@ -1,0 +1,141 @@
+.
+└── devqai/
+    ├── .claude/*/*
+    │   └── settings.local.json
+    ├── .ghostty*/*
+    │   └── terminal-config.zsh
+    ├── .git*
+    ├── .github/*/*
+    ├── .logfire*/*
+    │   └── logfire_credentials.json
+    ├── .zed/*/*
+    │   ├── settings.json
+    │   └── terminal-config.zsh
+    ├── agentical/ # agentic system using pydantic ai
+    │   ├── agents/ # pydantic ai agents
+    │   │   ├── core/ # 4 core agents assigned to every playbook
+    │   │   │   ├── superagent.py
+    │   │   │   ├── playbookagent.py
+    │   │   │   ├── condifieragent.py
+    │   │   │   └── inspectobserveagent.py
+    │   │   └── specialized/ # 9 specialized agents
+    │   │       ├── cloudagent.py
+    │   │       ├── codeagent.py
+    │   │       ├── datascienceagent.py
+    │   │       ├── githubagent.py
+    │   │       ├── legalagent.py
+    │   │       ├── researchagent.py
+    │   │       ├── shopifyagent.py
+    │   │       ├── supportagent.py
+    │   │       └── testeragent.py
+    │   ├── playbooks/ # how agentical uses agents tools workflow
+    │   │   ├── configs/ # config files of playbooks
+    │   │   └── playbooks.py # script for playbookagent
+    │   ├── readme.md
+    │   ├── reasoning/ # with bayesian principles
+    │   │   ├── bayes/ # conditional probability
+    │   │   ├── darwin/ # genetic algorithms
+    │   │   ├── nash/ # game theory
+    │   │   ├── wildwood/ # random forest
+    │   │   └── zipf/ # logistic population growth 
+    │   ├── tools/ # tools available for agents
+    │   │   ├── pydantic/ # pydantic ai built tools/
+    │   │   │   ├── multimodal/ # pydantic agent multimodal tool
+    │   │   │   └── tools/ # files for pydantic agent tools
+    │   │   ├── tools.py # assigns tools to agents for playbook
+    │   │   └── mcp_status.json # updated file from machina
+    │   └── workflows/ # agentical's workflows 
+    │       ├── patterns/ 
+    │       │   ├── sequential/
+    │       │   └── mapped/ 
+    │       └── conditions/ 
+    │           ├── feedback/ # boolean evalution
+    │           └── quantitative/ # bitwise operators
+    ├── api/ # devqai's plumbing
+    │   └── readme.md
+    ├── cli/ # devqai's cli with charm
+    │   ├── go.mod # bubbletea, lipgloss, gum, log dependencies
+    │   ├── go.sum
+    │   ├── cmd/
+    │   │   └── devqai/
+    │   │       └── main.go
+    │   ├── internal/
+    │   │   ├── commands/
+    │   │   │   ├── agentical/    # agentical subcommands
+    │   │   │   ├── machina/      # machina subcommands  
+    │   │   │   ├── ptolemies/    # ptolemies subcommands
+    │   │   │   └── trustlis/     # trustlis subcommands
+    │   │   ├── config/
+    │   │   │   └── local.go      # local config management
+    │   │   ├── auth/
+    │   │   │   └── trustlis.go   # trustlis integration
+    │   │   └── ui/               # charm ui components
+    │   │       ├── styles.go     # lip gloss styles
+    │   │       ├── components/   # reusable bubble tea components
+    │   │       └── tui/         # full tui applications
+    │   ├── pkg/
+    │   │   └── client/          # shared cli client utilities
+    │   └── readme.md
+    ├── docusaurus/ # documentation for devqai in docusaurus
+    │   └── readme.md
+    ├── frontend/ # nextjs for devqai/
+    │   └── readme.md
+    ├── logfire/ # syncd schemas, alerts to logfire.pydantic
+    │   └── readme.md
+    ├── machina/ # mcp registry using fast mcp and more/
+    │   ├── registry/   
+    │   ├── mcp/ # servers/
+    │   └── readme.md
+    ├── ptolemies/ # knowledge management with rag + graph
+    │   ├── crawl4ai/       
+    │   ├── readme.md
+    │   └── surrealdb/ # devqai database
+    │       ├── appdb/ # contains appdb for all devqai
+    │       ├── dehallucinate/
+    │       ├── graph/ # contains traversal 
+    │       ├── logs/ # contains logfile logs
+    │       └── vector/ # contains embeddings
+    ├── tests/ # contains tests and results
+    │   ├── agentical/ # python tests (pytest)
+    │   ├── api/ # python tests (pytest)
+    │   ├── appdb/ # python tests (pytest)
+    │   ├── cli/ # go tests  
+    │   │   ├── commands/
+    │   │   ├── integration/
+    │   │   └── testdata/
+    │   ├── docusaurus/ # python tests (pytest)
+    │   ├── trustlis/ # go tests
+    │   │   ├── auth_test.go
+    │   │   ├── crypto_test.go
+    │   │   ├── zkstark_test.go
+    │   │   └── integration/
+    │   ├── frontend/ # js/ts tests
+    │   ├── machina/ # python tests (pytest)
+    │   ├── ptolemies/ # python tests (pytest)
+    │   └── integration/ # cross-language integration (minimal)
+    ├── trustlis/ # trustless authentication with zkstark
+    │   ├── go.mod # independent, no charm deps
+    │   ├── go.sum
+    │   ├── cmd/
+    │   │   └── trustlis/
+    │   │       └── main.go
+    │   ├── internal/
+    │   │   ├── zkstark/
+    │   │   ├── auth/
+    │   │   ├── server/
+    │   │   └── crypto/
+    │   ├── pkg/
+    │   │   ├── client/          # for cli/api integration
+    │   │   └── types/           # shared auth types
+    │   └── readme.md
+    ├── venv/
+    ├── .env*
+    ├── .gitignore* # includes all * items
+    ├── .rules*
+    ├── changelog.md
+    ├── claude.md*
+    ├── readme.md
+    ├── license
+    ├── makefile # unified testing and build commands
+    ├── setup.py # launch python apps
+    └── tsconfig.json # launch front end

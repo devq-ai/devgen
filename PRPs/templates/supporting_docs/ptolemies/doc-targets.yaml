@@ -1,0 +1,400 @@
+target: pydanticai
+  url: https://ai.pydantic.dev
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: animejs
+  url: https://animejs.com/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: bigquery
+  url: https://cloud.google.com/bigquery/docs
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: looker
+  url: https://cloud.google.com/looker/docs/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: cubejs
+  url: https://cube.dev/docs/product/introduction
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: d3
+  url: https://devdocs.io/d3/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: rust
+  url: https://doc.rust-lang.org/stable/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: claude-code
+  url: https://docs.anthropic.com/en/docs/claude-code/overview
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: awscore
+  url: https://docs.aws.amazon.com/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: circom
+  url: https://docs.circom.io/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: crawl4ai
+  url: https://docs.crawl4ai.com/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: databricks
+  url: https://docs.databricks.com/aws/en
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: docker
+  url: https://docs.docker.com/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: dbt
+  url: https://docs.getdbt.com/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: pytest
+  url: https://docs.pytest.org/en/stable/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: python3
+  url: https://docs.python.org/3/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: snowflake
+  url: https://docs.snowflake.com/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: docusaurus
+  url: https://docusaurus.io/docs/docs-introduction
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: fastapi
+  url: https://fastapi.tiangolo.com/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: ghostty
+  url: https://ghostty.org/docs
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: charm
+  url: https://github.com/charmbracelet/charm?tab=readme-ov-file
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: ledger
+  url: https://github.com/ledger/ledger
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: go
+  url: https://go.dev/doc/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: fastmcp
+  url: https://gofastmcp.com/getting-started/welcome
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: linkml
+  url: https://linkml.io/linkml/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: logfire
+  url: https://logfire.pydantic.dev/docs/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: neo4j
+  url: https://neo4j.com/docS/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: nextjs
+  url: https://nextjs.org/docs
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no 
+target: panel
+  url: https://panel.holoviz.org/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: pygad
+  url: https://pygad.readthedocs.io/en/latest/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: pyyaml
+  url: https://pyyaml.org/wiki/PyYAMLDocumentation
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: redis
+  url: https://redis.io/docs/latest/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: surrealdb
+  url: https://surrealdb.com/docs/surrealdb
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: shadcn
+  url: https://ui.shadcn.com/docs
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: tailwindcss
+  url: https://v2.tailwindcss.com/docs
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: wildwood
+  url: https://wildwood.readthedocs.io/en/latest/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: postgresql
+  url: https://www.postgresql.org/docs/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: pulumi
+  url: https://www.pulumi.com/docs/iac/get-started/
+  required: no
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: pymc
+  url: https://www.pymc.io/
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no
+target: zed
+  url: https://zed.dev/docs/getting-started
+  required: yes
+  crawled: no
+  chunked: no
+  embeddings: no
+  graph: no
+  relationship: no
+  tested: no
+  passed: no

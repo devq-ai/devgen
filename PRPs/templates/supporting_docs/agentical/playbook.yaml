@@ -1,0 +1,24 @@
+playbook:
+  name: "Example Playbook"
+  branches:
+    - name: "data-processing"
+      steps:
+        - agent: "data-collector"
+          condition: "start"
+          action: "collect user data"
+        - agent: "data-validator" 
+          condition: "data-collected"
+          action: "validate data format"
+    - name: "notification"
+      steps:
+        - agent: "email-sender"
+          condition: "start"
+          action: "send welcome email"
+    - name: "analytics"
+      steps:
+        - agent: "tracker"
+          condition: "start" 
+          action: "initialize tracking"
+        - agent: "reporter"
+          condition: "tracking-active"
+          action: "generate report"
